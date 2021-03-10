@@ -1,6 +1,6 @@
 ### Martin Rasumoff's submission
- - PyRamen/main.ipynb<br>
- - PyBank/main.ipynb
+ - Pyramen/main.ipynb<br>
+ - Pybank/main.ipynb
 
 # Unit 2 | Homework Assignment: Automate Your Day Job with Python
 
